@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(90deg, rgba(244,243,249,1) 0%, rgba(220,220,251,1) 44%, rgba(246,246,246,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background-color: white;
+    width: 490px;
+    height: 540px;
+}
+.photo{
+    cursor: pointer;
+    padding: 20px;
+}
+.imgmain{
+    width: 460px;
+    height: 400px;
+}
